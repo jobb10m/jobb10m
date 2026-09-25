@@ -296,7 +296,7 @@ I'm always interested in learning from other developers and contributing where I
 
 ### GitHub
 
-🔗 [github.com/eyoba_jobb](https://github.com/jobb10m)
+🔗 [github.com/jobb10m](https://github.com/jobb10m)
 
 I'm always open to connecting with developers, collaborating on projects, and learning from the community.
 
