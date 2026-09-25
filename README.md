@@ -31,35 +31,19 @@ These are the programming and web languages I work with:
 
 ### 🟨 JavaScript
 
-My main language for modern web development. I use JavaScript for both frontend and backend applications.
-
 ### 🔷 TypeScript
-
-I'm currently focusing heavily on TypeScript to write more reliable, maintainable, and type-safe applications.
 
 ### ☕ Java
 
-Experience with object-oriented programming, application development, and Java fundamentals.
-
 ### 🐍 Python
-
-Experience using Python for programming projects, scripting, and backend-related development.
 
 ### 🌐 HTML
 
-Used to structure web applications and create semantic, accessible interfaces.
-
 ### 🎨 CSS
-
-Used for styling, responsive layouts, animations, and user interface development.
 
 ### 🐚 Bash
 
-Used for Linux command-line work, scripting, automation, and development workflows.
-
 ### 🗃️ SQL
-
-Used for working with relational databases, particularly **PostgreSQL**.
 
 ---
 
@@ -98,8 +82,6 @@ My frontend interests include:
 * 🔐 **REST APIs**
 * 🔑 **Authentication & Authorization**
 
-I enjoy building backend services that connect applications to databases and provide reliable APIs for frontend applications.
-
 Areas I'm working on include:
 
 * REST API development
@@ -117,9 +99,7 @@ Areas I'm working on include:
 
 ## 🐘 PostgreSQL
 
-PostgreSQL is currently my main database focus.
-
-I'm improving my knowledge of:
+Also i'm improving my knowledge of:
 
 * SQL
 * Database design
@@ -134,16 +114,11 @@ I'm improving my knowledge of:
 * Backend/database integration
 
 ## 🍃 MongoDB
-
-I also have experience working with MongoDB and document-based data storage.
-
 ---
 
 # 🔧 Development Tools
 
 ### Git & GitHub
-
-I use Git and GitHub for version control and collaborative development.
 
 I'm familiar with:
 
@@ -160,10 +135,6 @@ I'm familiar with:
 
 
 # 🚜 Featured Project
-
-## Farm Management System
-
-A full-stack management application designed to manage farm and plantation operations.
 
 ### 🧰 Tech Stack
 
@@ -204,37 +175,6 @@ I'm working toward becoming highly proficient in React, including:
 * Reusable UI architecture
 * Performance
 * Advanced React patterns
-
-## 🔷 TypeScript
-
-I'm focusing on using TypeScript effectively across full-stack applications.
-
-Currently learning:
-
-* Types
-* Interfaces
-* Generics
-* Union & intersection types
-* Utility types
-* Type-safe APIs
-* Advanced TypeScript patterns
-
-## 🐘 PostgreSQL
-
-I'm going deeper into PostgreSQL and database engineering.
-
-Areas of focus:
-
-* Advanced SQL
-* Complex queries
-* Relationships
-* Indexing
-* Transactions
-* Query optimization
-* Database architecture
-* Data modeling
-
----
 
 # 🧠 Areas of Interest
 
