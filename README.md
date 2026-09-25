@@ -158,22 +158,6 @@ I'm familiar with:
 * GitHub Discussions
 * Collaborative development
 
-### 🐧 Linux & Bash
-
-I'm interested in Linux-based development environments, command-line tools, scripting, and automation.
-
-### 💻 Development Environment
-
-* Visual Studio Code
-* Git
-* GitHub
-* Node.js
-* npm
-* pnpm
-* Linux
-* Bash
-
----
 
 # 🚜 Featured Project
 
@@ -274,21 +258,7 @@ I'm interested in learning and building with:
 
 ---
 
-# 📈 My Development Journey
 
-My journey in software development started with programming fundamentals and gradually moved toward full-stack development.
-
-Today, I'm focused on going beyond simply writing code.
-
-I want to understand:
-
-> **How software is designed, structured, tested, maintained, deployed, and scaled.**
-
-I'm continuously improving through personal projects, collaboration, open-source contributions, and solving real development problems.
-
-My long-term goal is to become a highly capable software developer who can take an idea from **concept → design → development → database → deployment**.
-
----
 
 # 🤝 Collaboration
 
