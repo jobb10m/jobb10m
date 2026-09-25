@@ -47,19 +47,6 @@ These are the programming and web languages I work with:
 
 ---
 
-# 🛠️ Technologies & Tools
-
-## 🎨 Frontend Development
-
-* ⚛️ **React**
-* 📱 **React Native**
-* 🔷 **TypeScript**
-* 🟨 **JavaScript**
-* 🌐 **HTML**
-* 🎨 **CSS**
-
-I'm interested in building responsive and interactive interfaces using component-based architecture.
-
 My frontend interests include:
 
 * Reusable components
@@ -82,17 +69,6 @@ My frontend interests include:
 * 🔐 **REST APIs**
 * 🔑 **Authentication & Authorization**
 
-Areas I'm working on include:
-
-* REST API development
-* Authentication
-* Authorization
-* API architecture
-* Server-side logic
-* Error handling
-* Database integration
-* Backend security
-
 ---
 
 # 🗄️ Databases
@@ -105,10 +81,8 @@ Also i'm improving my knowledge of:
 * Database design
 * Relationships
 * Primary and foreign keys
-* Joins
 * Constraints
-* Indexes
-* Transactions
+* * Transactions
 * Query optimization
 * Data modeling
 * Backend/database integration
@@ -132,32 +106,6 @@ I'm familiar with:
 * GitHub Issues
 * GitHub Discussions
 * Collaborative development
-
-
-# 🚜 Featured Project
-
-### 🧰 Tech Stack
-
-**Frontend**
-
-* React
-* JavaScript
-
-**Backend**
-
-* Node.js
-* Express.js
-
-**Database**
-
-* PostgreSQL
-
-**Development**
-
-* Git
-* GitHub
-
-This project has given me practical experience with **frontend development, backend APIs, database design, authentication, application architecture, and full-stack development**.
 
 ---
 
