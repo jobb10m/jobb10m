@@ -31,6 +31,8 @@ These are the programming and web languages I work with:
 
 ### 🟨 JavaScript
 
+### 🚀 React-Native
+
 ### 🔷 TypeScript
 
 ### ☕ Java
@@ -41,9 +43,9 @@ These are the programming and web languages I work with:
 
 ### 🎨 CSS
 
-### 🐚 Bash
+### 🐚 Node.js
 
-### 🗃️ SQL
+### 🗃️ SQL (PostegreSQL)
 
 
 
