@@ -15,7 +15,6 @@ I'm continuously improving my skills through real-world projects, collaboration,
 * 🎓 **Computer Science Graduate** — Addis Ababa University
 * 💻 **Full Stack Developer**
 * 🌱 Currently focusing on **React, TypeScript & PostgreSQL**
-* 🔨 Building practical full-stack applications
 * 🗄️ Interested in database design and backend architecture
 * 🐧 Comfortable working with Linux and Bash
 * 🔀 Experienced with Git and GitHub
