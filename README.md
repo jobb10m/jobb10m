@@ -44,7 +44,7 @@ These are the programming and web languages I work with:
 
 ### 🐚 Node.js
 
-### 🗃️ SQL (PostegreSQL)
+### 🗃️ SQL (PostgreSQL)
 
 
 
